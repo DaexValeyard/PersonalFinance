@@ -1,4 +1,4 @@
-name: personalFinance
+name: personalFinance-api
 
 on:
   pull_request:
